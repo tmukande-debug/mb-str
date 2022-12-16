@@ -1,6 +1,6 @@
 
 
-RAW_DATASET_ROOT_FOLDER = 'data'
+RAW_DATASET_ROOT_FOLDER = '/content/drive/MyDrive/RESEARCH PROJECT/datasets/MB-STR/data'
 
 import pandas as pd
 from tqdm import tqdm
