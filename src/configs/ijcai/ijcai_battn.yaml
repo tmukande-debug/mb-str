@@ -16,7 +16,7 @@ model:
 
 data:
   dataset_code: 'ijcai'
-  target_behavior: 'buy', 'click'
+  target_behavior: 'buy'
   multi_behavior: True
   min_uc: 3
   num_items: 874306
