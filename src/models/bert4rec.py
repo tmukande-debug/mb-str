@@ -5,7 +5,8 @@ import pytorch_lightning as pl
 from .embedding import BERTEmbedding, SimpleEmbedding
 from .new_transformer import TransformerBlock
 
-#SOFT , rela-transformer, Nystromformer, conformer, compressive-transformer-pytorch,
+#SOFT , rela-transformer, Nystromformer, conformer, compressive-transformer-pytorch,sinkhorn-transformer, GraphiT,flash_pytorchm Graph_Transformer_Networks
+
 
 
 class BERT(pl.LightningModule):
